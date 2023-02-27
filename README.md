@@ -4,6 +4,6 @@
 
 ## O projeto consiste em uma calculadora, que executa as funções de uma calculadora simples. Para elaborar o projeto foi utilizado Python e para a parte visual utilizei a biblioteca tkinter.
 
-### Resultado Final![image](https://user-images.githubusercontent.com/91344005/136272751-6c7ff6dc-2607-4d60-aa1c-f436476f18b0.png)
+### Resultado Final![Resultado-final](https://github.com/arthuramos/calculadora_python/blob/main/Resultado%20final.jpeg?raw=true)
 
 By Arthur Ramos
